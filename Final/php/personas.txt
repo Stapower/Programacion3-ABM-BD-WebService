@@ -1,0 +1,3 @@
+comp@comp.com,123,comprador
+admin@admin.com,321,administrador
+vend@vend.com,321,vendedor
